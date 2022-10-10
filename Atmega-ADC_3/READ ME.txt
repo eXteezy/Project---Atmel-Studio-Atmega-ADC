@@ -1,0 +1,1 @@
+Program pro AD převodník pro mikroprocesor ATmega32A.
